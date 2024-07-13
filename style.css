@@ -1,0 +1,16 @@
+body {
+    background: rgb(250, 255, 220);
+    padding: 5rem;
+
+}
+
+.tr_lista {
+    border-radius: 0.5px;
+    background: rgb(25, 171, 255);
+    color: white;
+    text-align: center;
+}
+
+.tr_listar {
+    text-align: center;
+}
